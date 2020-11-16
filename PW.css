@@ -1,0 +1,47 @@
+body
+{
+   background:url(dance.gif);
+
+   background-size: 25%;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main
+{
+   background: #00000080;
+   padding: 5px 40px;
+   margin-top: 20px;
+   border-radius: 10px;
+}
+.logo
+{
+   text-align: center;
+}
+
+.letra, .txt
+{
+   text-align: center;
+   margin: 0;
+}
+
+h1
+{
+   color: rgb(152, 224, 36);
+   width: 100;
+}
+
+h2
+{
+   color: rgb(105, 233, 55);
+}
+
+p
+{
+   color: sandybrown;
+   width: 100;
+}
+
+hr
+{
+   color: violet;
+}
